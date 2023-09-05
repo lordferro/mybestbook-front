@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mybestbook-front/static/css/main.e14fb313.css",
+    "main.js": "/mybestbook-front/static/js/main.4775b42e.js",
+    "index.html": "/mybestbook-front/index.html",
+    "main.e14fb313.css.map": "/mybestbook-front/static/css/main.e14fb313.css.map",
+    "main.4775b42e.js.map": "/mybestbook-front/static/js/main.4775b42e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14fb313.css",
+    "static/js/main.4775b42e.js"
+  ]
+}
