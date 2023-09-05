@@ -71,9 +71,19 @@ export const Form = () => {
           <Button type="submit">Let's shop</Button>
         </form>
       ) : (
-        <span>
-          registered kid: {kid.data.name} is {sex}
-        </span>
+        <>
+          <span>
+            registered kid: {kid.data.name} is {sex}
+          </span>
+          <Button
+            onClick={() => {
+              setKid(null);
+            }}
+            type="button"
+          >
+            Go back
+          </Button>
+        </>
       )}
     </div>
   );
